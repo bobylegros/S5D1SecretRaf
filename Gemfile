@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 #gem 'devise'
 #gem 'pundit'
 
+gem 'bcrypt',     '3.1.11'
 gem 'rails'
 gem 'puma'
 gem 'sass-rails'
