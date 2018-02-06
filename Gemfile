@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # authentification
 #gem 'devise'
 #gem 'pundit'
-
+gem 'bootstrap'
 gem 'bcrypt',     '3.1.11'
 gem 'rails'
 gem 'puma'
